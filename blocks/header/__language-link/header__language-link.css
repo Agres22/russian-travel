@@ -1,5 +1,5 @@
 .header__language-link {
-  font-weight: 400;
+  font: weight 320px; ;
   font-size: 24px;
   line-height: 28px;
   color: #FFF;
@@ -11,4 +11,5 @@
 .header__language-link:hover {
   opacity: 80%;
 }
+
 

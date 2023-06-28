@@ -1,9 +1,0 @@
-.header__language_item {
-  color: #FFF;
-  padding-right: 18px;
-}
-
-.header__language_item:last-of-type {
-  color: #FFF;
-  padding-right: 0;
-}
